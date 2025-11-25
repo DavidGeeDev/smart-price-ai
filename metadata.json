@@ -1,0 +1,5 @@
+{
+  "name": "SmartPrice AI",
+  "description": "An AI-powered price tracker and discount finder that searches the web for the best deals and analyzes price trends to tell you when to buy.",
+  "requestFramePermissions": []
+}
