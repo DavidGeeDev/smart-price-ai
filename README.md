@@ -1,6 +1,7 @@
 # Smart Price AI
 
 *"An AI-powered price tracker and discount finder that searches the web for the best deals and analyzes price trends to tell you when to buy."*
+
 **Smart Price AI helps you quickly find the right price by checking your product, comparing it to the market, and spotting trends.** Whether you're running a sale or just listing a new item, it takes the guesswork out of pricing so you can make confident decisions fast.
 
 <img width="1101" height="856" alt="Screenshot 2025-11-25 161306" src="https://github.com/user-attachments/assets/32d9ddba-a791-4e9d-a5e0-ba4df9076ac3" />
